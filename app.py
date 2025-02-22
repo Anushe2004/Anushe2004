@@ -1,13 +1,13 @@
 import streamlit as st
 import requests
-from transformers import pipeline, Pipeline
+from transformers import pipeline
 
 # Configure Streamlit
 st.set_page_config(page_title="AI Healthcare Assistant", page_icon="🤖🏥", layout="wide")
 
 # Load a medically reliable model
 @st.cache_resource
-def load_model() -> Pipeline:
+def load_model():
     return pipeline("text2text-generation", model="google/flan-t5-large")
 
 model = load_model()
