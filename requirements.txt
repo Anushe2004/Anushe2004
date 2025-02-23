@@ -1,6 +1,5 @@
 pip==25.0.1
 SpeechRecognition
-torch
 streamlit
 transformers
 tensorflow
