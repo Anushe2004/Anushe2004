@@ -3,7 +3,7 @@ import requests
 from transformers import pipeline
 import re
 import speech_recognition as sr
-import pyttsx3
+
 # Configure Streamlit
 st.set_page_config(page_title="AI Healthcare Assistant", page_icon="🤖🏥", layout="wide")
 
