@@ -1,6 +1,5 @@
 SpeechRecognition
-pyaudio
-pyttsx3
+torch
 streamlit
 transformers
 tensorflow
