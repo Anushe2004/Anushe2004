@@ -55,5 +55,5 @@ More accurate diagnostics using larger medical datasets.
 
 Appointment scheduling with real doctors.
 
-⚠️ Disclaimer
+# ⚠️ Disclaimer
 This assistant is not a certified medical device. It provides general information and is not a substitute for professional medical advice, diagnosis, or treatment. Always seek advice from a qualified healthcare provider with any questions regarding a medical condition.
