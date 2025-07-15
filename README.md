@@ -1,5 +1,5 @@
 ## Hi there 👋
-AI-Powered Healthcare Assistant
+## AI-Powered Healthcare Assistant
 🧠 Overview
 The AI-Powered Healthcare Assistant is an intelligent virtual assistant designed to assist users with basic healthcare-related queries, symptom checking, and preliminary medical guidance. It leverages the power of Natural Language Processing (NLP) and Machine Learning (ML) to simulate conversations with users and provide responses based on medical knowledge databases and trained AI models.
 
