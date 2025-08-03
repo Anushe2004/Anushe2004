@@ -31,10 +31,8 @@ Hi there! I'm Anush — a passionate self-driven programmer, currently diving de
 
 ## 📫 Connect With Me
 
-- 📩 Email: your-email@example.com
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
-- 🧑‍💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-
+- 📩 Email: Anushe315@example.com
+- 🧑‍💼 LinkedIn:https://www.linkedin.com/in/anush-erappareddy-95a8352a2
 ---
 
 ## 💡 Fun Fact
