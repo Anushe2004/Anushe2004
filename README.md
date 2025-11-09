@@ -7,7 +7,7 @@ Hi there! I'm Anush — a passionate self-driven programmer, currently diving de
 ## 🔧 What I'm Working On
 
 - 🧠 Enhancing large language model (LLM) performance with **differential privacy** in research projects
-- 💡 Automating room temperature control with sensors and actuators in **Cisco Packet Tracer**
+- 💡 Working on Software Development for real-world software projects that can solve real world problems.
 - ⚙️ Developing optimized solutions for algorithmic challenges (LeetCode, GFG, custom problem sets)
 
 ---
